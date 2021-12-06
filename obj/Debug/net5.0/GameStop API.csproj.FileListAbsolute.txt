@@ -1,0 +1,7 @@
+C:\Users\Alexandra\source\repos\GameStop API\obj\Debug\net5.0\GameStop API.csproj.AssemblyReference.cache
+C:\Users\Alexandra\source\repos\GameStop API\obj\Debug\net5.0\GameStop API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexandra\source\repos\GameStop API\obj\Debug\net5.0\GameStop API.AssemblyInfoInputs.cache
+C:\Users\Alexandra\source\repos\GameStop API\obj\Debug\net5.0\GameStop API.AssemblyInfo.cs
+C:\Users\Alexandra\source\repos\GameStop API\obj\Debug\net5.0\GameStop API.csproj.CoreCompileInputs.cache
+C:\Users\Alexandra\source\repos\GameStop API\obj\Debug\net5.0\GameStop API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Alexandra\source\repos\GameStop API\obj\Debug\net5.0\GameStop API.MvcApplicationPartsAssemblyInfo.cache
